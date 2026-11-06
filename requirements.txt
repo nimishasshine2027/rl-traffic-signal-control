@@ -1,0 +1,9 @@
+eclipse-sumo
+traci
+sumolib
+gymnasium
+numpy
+pandas
+matplotlib
+torch
+stable-baselines3

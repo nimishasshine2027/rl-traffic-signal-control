@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+venv/
+.venv/
+sumo_files/*.rou.xml
+*.log
